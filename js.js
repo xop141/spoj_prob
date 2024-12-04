@@ -320,12 +320,7 @@
 //  console.log(`${Math.ceil(toot/haalga)} ${"davhar"}`);
 //  console.log(toot%haalga);
  
- let orts = 3
- let haalga = 5
- let davhar = 4
- let toot = 50
- console.log(Math.ceil(toot/haalga/davhar), "orts");
- console.log(toot - Math.ceil(toot/haalga/davhar)*(davhar * haalga));
+
  
 
  
