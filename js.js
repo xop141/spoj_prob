@@ -25,10 +25,13 @@
 // let c = a - b
 // let d = c / 60
 
-// let a = 3612
-// let s = a % 3600
-// let d = (a - s) / 3600
-// console.log(s, d , m);
+//let a = 3612
+//let tsag = Math.floor(a/3600)
+//let min = Math.floor((a - tsag*3600)/60)
+//let sek = a - tsag * 3600 - min * 60 
+//console.log(tsag);
+//console.log(min);
+//console.log(sek);
 
 
 
